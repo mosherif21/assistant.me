@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nisrulz:qreader:2.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/49030c046d12a3d6bb4b3810cf9ea9df/transformed/jetified-qreader-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8c67739ee6a7ca4a141eb7a33e67d205/transformed/jetified-qreader-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8c67739ee6a7ca4a141eb7a33e67d205/transformed/jetified-qreader-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8c67739ee6a7ca4a141eb7a33e67d205/transformed/jetified-qreader-2.1.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1714f9d18eef263ebb7f914c50ec54b9/transformed/jetified-qreader-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1714f9d18eef263ebb7f914c50ec54b9/transformed/jetified-qreader-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1714f9d18eef263ebb7f914c50ec54b9/transformed/jetified-qreader-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0261a015b7e411fd315206cc74464ebb/transformed/jetified-qreader-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0261a015b7e411fd315206cc74464ebb/transformed/jetified-qreader-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0261a015b7e411fd315206cc74464ebb/transformed/jetified-qreader-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a3305752a67b3ed2ef55af27ff16c442/transformed/jetified-qreader-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d7eb0f4126ec2dbf6cfdd22bb186208b/transformed/jetified-qreader-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7eb0f4126ec2dbf6cfdd22bb186208b/transformed/jetified-qreader-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d7eb0f4126ec2dbf6cfdd22bb186208b/transformed/jetified-qreader-2.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7e42d5cbf256f85961680ee517d1cf17/transformed/jetified-qreader-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e42d5cbf256f85961680ee517d1cf17/transformed/jetified-qreader-2.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e42d5cbf256f85961680ee517d1cf17/transformed/jetified-qreader-2.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e60fca24e3a79d41e40ed905b6890841/transformed/jetified-qreader-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e60fca24e3a79d41e40ed905b6890841/transformed/jetified-qreader-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/qreader/2.1.1/e5a9cf0b835560ed7e07ee57dd73331d6e1d161a/qreader-2.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nisrulz/qreader/2.1.1/a9f9f3ff25c2998f582b124bce9e2921d4b414ed/qreader-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

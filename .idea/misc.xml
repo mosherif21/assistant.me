@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/drawable/circle_back1.xml" value="0.2325" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/drawable/rounded_background.xml" value="0.23914473684210527" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/actionbar_layout.xml" value="0.23157894736842105" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/chat_bot.xml" value="0.35336322869955156" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/contact_suggestion_layout.xml" value="0.23157894736842105" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/fragment_blank.xml" value="0.22671009771986972" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/paired_device_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/paired_devices_list.xml" value="0.25" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/qrcode_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/qrcode_read.xml" value="0.25" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/recieved_image.xml" value="0.22894736842105262" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/remote_control_layout.xml" value="0.25" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/rounded_layout_background.xml" value="0.22894736842105262" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/scanned_device_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/scanned_devices_list.xml" value="0.25" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/sendto_device_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/sendto_device_list.xml" value="0.25" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/layout/splash_screen_xml.xml" value="0.3625" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1401315789473684" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1401315789473684" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/logo_foreground_final.xml" value="0.1611842105263158" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/logo_foreground_final_round.xml" value="0.1611842105263158" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/logo_my.xml" value="0.1401315789473684" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/logo_my_round.xml" value="0.15928338762214983" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/logo_myas.xml" value="0.21458333333333332" />
+        <entry key="..\:/college/term 7/mobile applications/assistant.me/app/src/main/res/mipmap-anydpi-v26/logo_myas_round.xml" value="0.1401315789473684" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

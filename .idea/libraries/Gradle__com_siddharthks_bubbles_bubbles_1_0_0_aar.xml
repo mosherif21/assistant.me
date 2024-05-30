@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.siddharthks.bubbles:bubbles:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d8889ec6a89b06a2e8f00bf10e823e6e/transformed/jetified-bubbles-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8889ec6a89b06a2e8f00bf10e823e6e/transformed/jetified-bubbles-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8889ec6a89b06a2e8f00bf10e823e6e/transformed/jetified-bubbles-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ed197156643d38d9293cb2675c099686/transformed/jetified-bubbles-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed197156643d38d9293cb2675c099686/transformed/jetified-bubbles-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed197156643d38d9293cb2675c099686/transformed/jetified-bubbles-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/629941c753547278fb888ace72ed0dca/transformed/jetified-bubbles-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/629941c753547278fb888ace72ed0dca/transformed/jetified-bubbles-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/629941c753547278fb888ace72ed0dca/transformed/jetified-bubbles-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6f8326e867d9870c4fe853fb2ca3bb3/transformed/jetified-bubbles-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e6f8326e867d9870c4fe853fb2ca3bb3/transformed/jetified-bubbles-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e6f8326e867d9870c4fe853fb2ca3bb3/transformed/jetified-bubbles-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a017ba10f0970def204ad67479499307/transformed/jetified-bubbles-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a017ba10f0970def204ad67479499307/transformed/jetified-bubbles-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a017ba10f0970def204ad67479499307/transformed/jetified-bubbles-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51c89fccca22ab3e229c616d83f231fd/transformed/jetified-bubbles-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/51c89fccca22ab3e229c616d83f231fd/transformed/jetified-bubbles-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/51c89fccca22ab3e229c616d83f231fd/transformed/jetified-bubbles-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.siddharthks.bubbles/bubbles/1.0.0/2e449f3a9392900d3e4156a6ce5f71fda3afc01c/bubbles-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.siddharthks.bubbles/bubbles/1.0.0/101bcfa44308a52db915d20ab3b3b8475b2c7421/bubbles-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
